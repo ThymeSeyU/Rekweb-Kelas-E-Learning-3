@@ -1,0 +1,32 @@
+[
+    {
+        "nama" : "Dae Gi Hong",
+        "umur" : 21,
+        "nrp" : "173040084",
+        "lulus" : true,
+        "hobby" : [
+            "Gaming",
+            "Anime",
+            "Tech"
+        ],
+        "pembimbing" : {
+            "pembimbing" : "Fuu",
+            "pembimbing" : "Ruu"
+        }
+    },
+    {
+        "nama" : "Dae Gi Hong",
+        "umur" : 21,
+        "nrp" : "173040084",
+        "lulus" : true,
+        "hobby" : [
+            "Gaming",
+            "Anime",
+            "Tech"
+        ],
+        "pembimbing" : {
+            "pembimbing" : "Fuu",
+            "pembimbing" : "Ruu"
+        }
+    }
+]
